@@ -1,1 +1,1 @@
---platform=linux/arm64 mysql
+--platform=linux/arm64 haxqer/confluence:9.0.1
