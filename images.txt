@@ -1,1 +1,2 @@
---platform=linux/arm64 haxqer/confluence:9.0.1
+--platform=linux/arm64 osixia/openldap:latest
+
