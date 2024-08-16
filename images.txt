@@ -1,2 +1,2 @@
---platform=linux/arm64 osixia/openldap:latest
+--platform=linux/arm64 osixia/phpldapadmin:latest
 
