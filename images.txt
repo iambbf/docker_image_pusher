@@ -1,2 +1,2 @@
---platform=linux/amd64 osixia/phpldapadmin:latest
+--platform=linux/amd64 osixia/openldap:latest
 --platform=linux/amd64 haxqer/confluence:latest
